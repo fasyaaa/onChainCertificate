@@ -9,8 +9,8 @@ Team 3 :
 # About Project :
 On Chain Certificate is for upload and check about certificate, utilizing a decentralized architecture powered by Solidity Smart Contracts and React.js. The platform features role-based access where only authorized admins can upload metadata to IPFS and mint NFTs, while a public verification interface allows anyone to query contract data to verify ownership and validity based on Student ID (NIM).
 
-- link video :
-- link power point : https://umyac-my.sharepoint.com/:f:/g/personal/muhammad_adifa_ft22_mail_umy_ac_id/IgAPCvLhulOvQb1d0jQelSjoAX77wmr1OVbfTPDciEPkCy0?e=0sKfvV
+- link video : https://www.youtube.com/watch?v=q-UoLJtwLFg&feature=youtu.be
+- link power point : https://drive.google.com/drive/folders/10edO2s5Jks_WLmHRlLVMLQB9F6gg1Bfk
 
 # Sample Hardhat Project
 
